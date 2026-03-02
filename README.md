@@ -11,6 +11,12 @@ Book PDF processor: deskew, color correction, AI upscaling, and OCR.
 
 Python rewrite of [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter) (C# / .NET 6.0 / Windows-only). Developed and tested on **macOS (Apple Silicon)**. Should also work on **Linux** and **Windows** (untested).
 
+### Deskew example (left: before, right: after)
+
+![Deskew comparison](doc_img/deskew_comparison.png)
+
+(Source: "Koukyou" textbook, Tokyo Shoseki. This image will be removed if there are any copyright concerns.)
+
 ### Why superbook-pdf?
 
 - **Simple install** — system tools via Homebrew/apt/choco, Python deps via uv. No manual file placement

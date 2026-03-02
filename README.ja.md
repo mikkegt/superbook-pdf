@@ -9,6 +9,12 @@
 
 [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter)（C# / .NET 6.0 / Windows専用）のPython書き換え版。**macOS（Apple Silicon）** で開発・テスト済み。**Linux** ・ **Windows** でも動作する見込みです（未検証）。
 
+### 傾き補正の例（左: 補正前、右: 補正後）
+
+![傾き補正の比較](doc_img/deskew_comparison.png)
+
+(引用元:「公共」東京書籍。著作権上の問題がございましたら削除いたします)
+
 ### superbook-pdf の特徴
 
 - **簡単インストール** — Homebrew/apt/choco でシステムツール、uv で Python 依存関係。手動ファイル配置不要
