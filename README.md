@@ -157,6 +157,8 @@ uv run ruff check src/ tests/
 
 AGPL-3.0-only (following the original project)
 
-## Credits
+## Acknowledgments
 
-Based on [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter) by mikkegt.
+This project is a Python port of [DN_SuperBook_PDF_Converter](https://github.com/dnobori/DN_SuperBook_PDF_Converter) by [Daiyuu Nobori](https://github.com/dnobori). The original C# implementation provided the complete pipeline design, algorithms, and constants that made this rewrite possible.
+
+Thank you for creating and open-sourcing such a well-designed tool for making scanned book PDFs readable.

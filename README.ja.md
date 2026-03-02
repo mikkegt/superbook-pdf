@@ -155,6 +155,8 @@ uv run ruff check src/ tests/
 
 AGPL-3.0-only（元プロジェクトに準拠）
 
-## クレジット
+## 謝辞
 
-[DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter)（mikkegt）をベースにしています。
+本プロジェクトは [登 大遊](https://github.com/dnobori) 氏による [DN_SuperBook_PDF_Converter](https://github.com/dnobori/DN_SuperBook_PDF_Converter) の Python 移植版です。元の C# 実装が提供するパイプライン設計、アルゴリズム、定数をそのまま活用させていただきました。
+
+スキャン書籍 PDF を快適に読めるようにする素晴らしいツールを公開いただき、ありがとうございます。子どもの教科書や古い技術書の自炊に活用させていただいております。
