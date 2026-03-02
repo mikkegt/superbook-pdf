@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Pipeline intermediates
+*.bmp
+.superbook_tmp/
+debug/
+ocr_output/
+
+# Test output (large PDFs and images)
+test_output/
+
+# Lock file
+uv.lock
