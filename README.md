@@ -13,7 +13,6 @@ Python rewrite of [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_Sup
 
 ### Why superbook-pdf?
 
-- **Pure Python** — no C compiler or Cython build step required. Just `uv sync` and go
 - **Simple install** — system tools via Homebrew/apt/choco, Python deps via uv. No manual file placement
 - **Configurable PDF layout** — single page or spread view, left or right binding. One CLI handles both textbooks and manga
 - **38 unit tests** — reliable, testable codebase
