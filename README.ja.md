@@ -2,7 +2,7 @@
 
 書籍PDF処理ツール: 傾き補正、色調整、AI超解像、OCR。
 
-[DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter)（C# / .NET 6.0 / Windows専用）のPython書き換え版。**macOS（Apple Silicon）**で開発・テスト済み。**Linux**・**Windows** でも動作する見込みです（未検証）。
+[DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter)（C# / .NET 6.0 / Windows専用）のPython書き換え版。**macOS（Apple Silicon）** で開発・テスト済み。**Linux** ・ **Windows** でも動作する見込みです（未検証）。
 
 ## 機能
 
