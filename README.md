@@ -1,10 +1,22 @@
 # superbook-pdf
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Tests: 38 passed](https://img.shields.io/badge/Tests-38%20passed-brightgreen.svg)](tests/)
+[![Platform: macOS](https://img.shields.io/badge/Platform-macOS%20(tested)-000000.svg?logo=apple&logoColor=white)]()
+
 [日本語版 README はこちら](README.ja.md)
 
 Book PDF processor: deskew, color correction, AI upscaling, and OCR.
 
 Python rewrite of [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter) (C# / .NET 6.0 / Windows-only). Developed and tested on **macOS (Apple Silicon)**. Should also work on **Linux** and **Windows** (untested).
+
+### Why superbook-pdf?
+
+- **Pure Python** — no C compiler or Cython build step required. Just `uv sync` and go
+- **Simple install** — system tools via Homebrew/apt/choco, Python deps via uv. No manual file placement
+- **Configurable PDF layout** — single page or spread view, left or right binding. One CLI handles both textbooks and manga
+- **38 unit tests** — reliable, testable codebase
 
 ## Features
 
