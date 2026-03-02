@@ -2,9 +2,9 @@
 
 [日本語版 README はこちら](README.ja.md)
 
-Cross-platform book PDF processor: deskew, color correction, AI upscaling, and OCR.
+Book PDF processor: deskew, color correction, AI upscaling, and OCR.
 
-Python rewrite of [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter) (C# / .NET 6.0 / Windows-only). Works on **macOS**, **Linux**, and **Windows**.
+Python rewrite of [DN_SuperBook_PDF_Converter](https://github.com/mikkegt/DN_SuperBook_PDF_Converter) (C# / .NET 6.0 / Windows-only). Developed and tested on **macOS (Apple Silicon)**. Should also work on **Linux** and **Windows** (untested).
 
 ## Features
 
